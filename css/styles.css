@@ -119,6 +119,8 @@ section:last-child {
     height: 300px;
     object-fit: cover;
     margin-bottom: 80px;
+    background-image: url('images/poster.jpg');
+    background-size: cover;
 }
 
 #welcome p:last-child {
