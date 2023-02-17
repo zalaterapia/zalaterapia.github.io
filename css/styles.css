@@ -96,7 +96,7 @@ main p {
 }
 
 main p.strong {
-    font-weight: bold;
+    font-weight: 300;
 }
 
 section {
@@ -133,6 +133,11 @@ section:last-child {
     padding-left: 40px;
     padding-right: 40px;
     border-radius: 125px;
+}
+
+#welcome p:last-child img {
+    width: 20px;
+    vertical-align: -4px;
 }
 
 /* information */
