@@ -56,6 +56,28 @@ nav {
     font-size: 1.1rem;
 }
 
+@media screen and (max-width: 1280px) {
+
+    nav {
+        height: 3.5em;
+        left: 0;
+        line-height: 3.5em;
+        overflow: hidden;
+        padding: 0;
+        text-align: center;
+        top: 0;
+        width: 100%;
+    }
+
+    nav ul:first-child li {
+        display: inline-block;
+    }
+
+    nav ul:last-child {
+        display: none;
+    }
+}
+
 nav li {
     text-transform: uppercase;
 }
@@ -86,6 +108,15 @@ main {
 
     font-size: 1.2rem;
     line-height: 2;
+}
+
+@media screen and (max-width: 1280px) {
+
+    main {
+        margin: 0;
+        padding: 0;
+    }
+
 }
 
 main h1, main h2 {
@@ -202,6 +233,15 @@ footer {
 
     padding: 50px;
     padding-left: var(--paddingLeft);
+}
+
+@media screen and (max-width: 1280px) {
+
+    footer {
+        margin: 0;
+        padding: 0;
+    }
+
 }
 
 footer > div, footer > div ul {
