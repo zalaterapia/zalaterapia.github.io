@@ -13,7 +13,7 @@ $(function ()
     {
         // showing or disabled
 
-        console.log(video.textTracks[i].mode);
+        // console.log(video.textTracks[i].mode);
 
         if(video.textTracks[i].mode=="showing")
         {
@@ -35,9 +35,9 @@ $(function ()
             video.textTracks[captions].mode = "showing";
         }
 
-        console.log(showing);
+        // console.log(showing);
 
-        console.log(video.textTracks[captions].mode);
+        // console.log(video.textTracks[captions].mode);
 
         showing = !showing;
     });

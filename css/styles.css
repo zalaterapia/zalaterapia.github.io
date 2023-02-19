@@ -130,11 +130,15 @@ section:first-child, section:last-child {
 
 #video  {
     width: var(--contentWidth);
+    height: 300px;
+    background-size: cover;
+    background-image: url("../images/poster.jpg");
     position: relative;
     margin-bottom: 40px;
 }
 
 video  {
+    width: var(--contentWidth);
     height: 300px;
     object-fit: cover;
 }
