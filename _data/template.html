@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="$language$">
+
+	<head>
+		<title>$title$</title>
+		
+        <meta name="description" content="$description$">
+        <meta name="author" content="Charlie">
+
+        <meta property="og:title" content="$title$">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://zalaterapia.github.io">
+        <meta property="og:description" content="$description$">
+        <meta property="og:image" content="image.png">
+
+		<link rel="alternate" hreflang="hu" href="index.html" />
+		<link rel="alternate" hreflang="en" href="index-en.html" />
+		<link rel="alternate" hreflang="de" href="index-de.html" />
+		<link rel="alternate" hreflang="nl" href="index-nl.html" />
+        <link rel="alternate" hreflang="fr" href="index-fr.html" />
+
+		<link rel="alternate" hreflang="x-default" href="index.html" />
+		
+		<meta charset="utf-8" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com"> 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+        <link rel="preconnect" href="https://www.google.hu"> 
+        <link rel="preconnect" href="https://code.jquery.com"> 
+        <link rel="preconnect" href="https://zalaterapia.github.io"> 
+
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;600&display=swap" rel="stylesheet">
+
+		<link href="css/reset.css?v=$version$" rel="stylesheet">
+		<link href="css/styles.css?v=$version$" rel="stylesheet">
+
+        <script src="https://code.jquery.com/jquery-3.6.3.slim.min.js" integrity="sha256-ZwqZIVdD3iXNyGHbSYdsmWP//UBokj2FHAxKuSBKDSo=" crossorigin="anonymous"></script>
+
+        <script src="js/script.js"></script>
+
+	</head>
+	
+	<body id="top" class="preloading">
+
+		<nav>
+            <nav>
+                <ul>
+                    <li><a href="#welcome" title="$nav:welcome$">$nav:welcome$</a></li>
+                    <li><a href="#information" title="$nav:information$">$nav:information$</a></li>
+                    <li><a href="#contact" title="$nav:contact$">$nav:contact$</a></li>
+                    <li><a href="#map" title="$nav:map$">$nav:map$</a></li>
+                </ul>
+                <ul>
+                    <li><a href="index$otherLanguagePage1$.html" title="$otherLanguageTitle1$">$otherLanguageName1$</a></li>
+                    <li><a href="index$otherLanguagePage2$.html" title="$otherLanguageTitle2$">$otherLanguageName2$</a></li>
+                    <li><a href="index$otherLanguagePage3$.html" title="$otherLanguageTitle3$">$otherLanguageName3$</a></li>
+                    <li><a href="index$otherLanguagePage4$.html" title="$otherLanguageTitle4$">$otherLanguageName4$</a></li>
+                </ul>
+            </nav>
+		</nav>
+
+		<main>
+
+            <section id="welcome">
+
+                <section id="video">
+
+                    <video autoplay loop muted id="video">
+                        <source src="images/loop.mp4" type="video/mp4">
+                        <track label="Magyar" kind="subtitles" srclang="hu" src="captions/hu.vtt?v=$version$" $subtitlesDefaultHU$ />
+                        <track label="English" kind="subtitles" srclang="en" src="captions/en.vtt?v=$version$" $subtitlesDefaultEN$ />
+                        <track label="Nederlands" kind="subtitles" srclang="nl" src="captions/nl.vtt?v=$version$" $subtitlesDefaultNL$ />
+                        <track label="Deutsch" kind="subtitles" srclang="de" src="captions/de.vtt?v=$version$" $subtitlesDefaultDE$ />
+                        <track label="Français" kind="subtitles" srclang="fr" src="captions/fr.vtt?v=$version$" $subtitlesDefaultFR$ />
+                    </video>
+    
+                    <div id="subtitles" class="button">$subtitles$</div>
+    
+                </section>
+
+                <h1>$welcome:H1$</h1>
+                <h2>$welcome:H2$</h2>
+                <p>$welcome:1$</p>
+                <p>$welcome:2$</p>
+                <p>$welcome:3$</p>
+                <p>$welcome:4$</p>
+                <p>$welcome:5$</p>
+                
+                <p>$welcome:6$</p>
+                <p>$welcome:7$</p>
+
+                <p><a href="#information" title="$welcome:infoLink$" class="button">$welcome:infoLink$ <img src="images/right-arrow.svg" alt="" /></a></p>
+
+            </section>
+
+            <section id="information">
+
+                <h1>$information:H1$</h1>
+
+                <p>$information:1$</p>
+
+                <p>$information:2$</p>
+
+                <p class="strong">$information:3$</p>
+
+                <p>$information:4$:</p>
+
+                <ol>
+                    <li>$information:5$</li>
+
+                    <li>$information:6$</li>
+
+                    <li>$information:7$</li>
+
+                    <li>$information:8$</li>
+
+                    <li>$information:9$</li>
+                </ol>
+
+                <p>$information:10$</p>
+
+            </section>
+
+            <section id="contact">
+
+                <h2>$contact:h2$</h2>
+                
+                <ul>
+                    <li>
+                        <h3>$contact:address:h3$</h3>
+                        <span>Szűcs Ferencné<br />
+                        8782 Zalacsány<br />
+                        Örvényeshegy 18<br />
+                        Magyarország</span>
+                    </li>
+                    <li>
+                        <h3>$contact:email:h3$</h3>
+                        <a href="mailto:anik.szucs@gmail.com" title="$contact:email:linkTitle$">anik.szucs@gmail.com</a>
+                    </li>
+                    <li>
+                        <h3>$contact:tel:h3$</h3>
+                        <p><a href="tel:+36306475573" title="$contact:telLinkTitle$">+36 30 647 5573</a></p>
+                        <p><a href="tel:+36306475573" title="$contact:telLinkTitle$">$contact:telLink$</a></p>
+                    </li>
+                </ul>
+            
+            </section>
+
+            <section id="bemer">
+
+                <p><img src="images/bemer_logo.svg" alt="$bemer:logoAlt$" /></p>
+                <p>$bemer:about$</p>
+
+            </section>
+
+            <section id="map">
+
+                <h2>$map:h2$</h2>
+                <iframe src="https://www.google.hu/maps/embed?pb=!1m18!1m12!1m3!1d2729.9008874368965!2d17.0779331518665!3d46.825952779038204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476921d99aa4ebbb%3A0xb9ad7e7acaed94d1!2sKering%C3%A9sjav%C3%ADt%C3%B3%20terapia%20(Bemer%20Circulatory%20Therapy)!5e0!3m2!1sen!2shu!4v1639836085070!5m2!1sen!2shu&hl=$language$" 
+                width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+            </section>
+
+		</main>
+
+        <footer>
+        
+            <div>
+
+                <div>&copy; 2021-2023 Szűcs Ferencné</div>
+            
+                <ul>
+                    <li><a href="index$otherLanguagePage1$.html" title="$otherLanguageTitle1$">$otherLanguageName1$</a></li>
+                    <li><a href="index$otherLanguagePage2$.html" title="$otherLanguageTitle2$">$otherLanguageName2$</a></li>
+                    <li><a href="index$otherLanguagePage3$.html" title="$otherLanguageTitle3$">$otherLanguageName3$</a></li>
+                    <li><a href="index$otherLanguagePage4$.html" title="$otherLanguageTitle4$">$otherLanguageName4$</a></li>
+                </ul>
+            
+                <div><a href="#top" title="$footer:topTitle$">$footer:topLink$ &uparrow;</a></div>
+            
+            </div>
+
+        </footer>
+	</body>
+</html>

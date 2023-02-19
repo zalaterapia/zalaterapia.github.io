@@ -1,0 +1,286 @@
+// HUNGARIAN
+
+hu:title	BEMER terápia Zalacsány, Heviz, Kehidakustány, Zalaegerszeg, Keszthely - A BEMER mint fizikai érterápia
+hu:description	
+hu:subtitles	Feliratok
+hu:nav:welcome	Üdvözöljük
+hu:nav:information	Információ
+hu:nav:contact	Kapcsolat
+hu:nav:map	Google Maps
+hu:welcome:H1	BEMER terápia, Zalacsány
+hu:welcome:H2	A jó vérkeringés a kulcs
+hu:welcome:1	A vérkeringés az emberi test ellátó rendszere. Tápanyagokkal és oxigénnel látja el a szöveteket és a szerveket.
+hu:welcome:2	Ugyanakkor a keletkező salakanyagokat eltávolítja és megtisztítja.
+hu:welcome:3	Ennek a folyamatnak a 75%-a a legkisebb véredényekben — az úgynevezett mikrokeringésben — történik.
+hu:welcome:4	A BEMER készülékek javítják a kicsi és nagyon kicsi véredények továbbító mozgásait.
+hu:welcome:5	Ez a szükségletnek megfelelő véreloszláshoz vezet a legkisebb véredények hálózatában.
+hu:welcome:6	Ezért a BEMER hatékony terápiás opció számos betegség és egészségügyi probléma esetén.
+
+hu:welcome:7	Bejelentkezni a <a href="tel:+36306475573" title="Telefonos kapcsolatfelvétel">+36 30 647 5573-as</a> telefonszámon, vagy <a href="mailto:anik.szucs@gmail.com" title="Kapcsolatfelvétel e-mailben">anik.szucs@gmail.com</a> e-mail címen lehet.
+
+hu:welcome:infoLink	Tudj meg többet
+
+hu:information:H1	Keringésjavító terápia BEMER készülékkel
+
+hu:information:1	A világszabadalommal rendelkező Bemer kezelést a Berlini Egyetem elismert professzora, Dr. Med. Rainer Klopp fedezte fel. Ez az egyetlen mágnesterápiás kezelés, amely klinikailag igazoltan javítja az egészségügyi állapotot. Orvostechnikai eszköz, mely szövődmény- és mellékhatás-mentesen hozzáfér a legsérülékenyebb területekhez, a gyógyulást akadályozó önrontó ördögi köröket szüntetve meg, aminek hatására a többi alkalmazott orvosi kezelés és az öngyógyító folyamat is eredményesebb lehet. Sokrétű pozitív hatást fejt ki a test egészére. Általa befolyásolni lehet az érrendszer mozgását, a vér sebességét, javítani lehet a vér minőségét, a szövetek állapotát. Biofizikai alkalmazás, amely a szervezet saját gyógyító erejét aktiválja.
+hu:information:2	A mikrokeringés funkcionálisan az emberi vérkeringés legfontosabb része, amely a legkisebb vérerek finom és nagyon szétágazó hálózatában (a vérkeringés kb. 74%-a) játszódik le, ahol létfontosságú szállítási feladatokat tölt be: ellátja a szerveket oxigénnel és tápanyagokkal, salakanyagokat szállít el, valamint támogatja az immunrendszert. Számos egészségügyi rendellenességnek és betegségnek a korlátozott vagy zavart mikrocirkuláció az oka.
+hu:information:3	A Bemer fizikai érterápia az ismert betegségek 80-90 százalékában alkalmazható, mint pl: keringési zavarok, érbetegségek, érelmeszesedés, lábszárfekély, cukorbetegség, ízületi betegségek, gyulladások, fülzúgás, fog- és ínybetegségek, helyi fekélyek, körömgomba, epe problémák, koleszterinszint csökkentése, szédülés, agyi katasztrófák (Stroke), demencia, depresszió, idegvezetési zavarok, ödéma csökkentése, alvászavarok, Sclerosis multiplex, látásromlás, emlékezetzavarok, nőgyógyászati gyulladásos betegségek, endometriosis, PMS szindróma, potencia zavarok, csontritkulás, migrénes fejfájás, égési sérülések, sebek gyors gyógyulása, allergiák, rehabilitációk kiegészítő kezeléseként, méregtelenítés, lumbago, Bechterew kór, tanulás segítése, sportolók teljesítményének javítása, egészséges emberek általános erőnlét és jólétének támogatása, stb.
+hu:information:4	A Bemer terápia 5 kezelő egységgel történik:
+hu:information:5	Teljes testfelület általános kezelésére. Javítja számos anyagcsere folyamat és önszabályozó mechanizmus előfeltételeit, így a megelőzés és a terápia területén történő használat alapjául szolgál.
+hu:information:6	Intenzív hatású kezelőegység pontszerű és célzott kezelések elvégzésére (pl. ízületek).
+hu:information:7	Intenzív hatású kezelőegység bizonyos testrészek célzott kezelésének elvégzésére.
+hu:information:8	Monokróm és fotobiológiailag igen hatékony, 660nm hullámhosszú pulzáló vörös fény. Hatására a bőr és a kötőszöveti sejtekben energiában gazdag kötések jönnek létre. Igazoltan jelentős pozitív hatással vannak a sejtszintű működésre, a kedvező hatások pedig széles körben jelentkeznek, mint: a bőr javuló egészsége, a bőr öregedésének visszafordítása, ráncok csökkentése, kollagén szintézis fokozása, gyógyulási és regenerációs folyamatok felgyorsítása, ízületi fájdalom csökkentése, gyulladási folyamatok enyhítése, magasabb tesztoszteron szint, fogyás.
+hu:information:9	A páciens ülő helyzetében való helyi alkalmazására szolgáló kezelőegység. Alkalmas kismedencei gyulladások kezelésére, prosztata problémáknál, merevedési zavaroknál, meddőség esetén, változókori problémáknál.
+hu:information:10	A kezelések hosszúsága és időtartama különböző, utcai ruhában történik, fájdalom- és mellékhatásoktól mentes. A gyógyulni, vagy csak feltöltődni vágyókat szeretettel várom a nyugodt környezetben lévő, csodálatos dombokkal körülölet Örvényeshegyen.
+
+hu:contact:h2	Felveszi a kapcsolatot
+
+hu:contact:address:h3	Cím
+
+hu:contact:email:h3	Email
+hu:contact:email:linkTitle	Kapcsolatfelvétel e-mailben
+
+hu:contact:tel:h3	Telefon
+hu:contact:telLink	Kattints a híváshoz
+hu:contact:telLinkTitle	Telefonos kapcsolatfelvétel
+
+hu:bemer:logoAlt	BEMER logo
+hu:bemer:about	A BEMER International AG nemzetközi piacvezető a mikrokeringés területén. Már 1998 óta fejlesztünk a fizikai érterápiához szolgáló szabadalmazott kezelési módszereket és további kutatásokat végzünk ezen a területen.
+
+hu:map:h2	Google Maps
+
+hu:footer:topTitle	Menj vissza az oldal tetejére
+hu:footer:topLink	Felső / Top
+
+hu:viewThisPage	Tekintse meg ezt az oldalt magyarul
+hu:languageName	Magyar
+
+// GERMAN
+
+de:title	BEMER Therapie Zalacsány, Heviz, Kehidakustány, Zalaegerszeg, Keszthely - BEMER als physikalische Gefäßtherapie
+de:description	
+de:subtitles	Untertitel
+de:nav:welcome	Willkommen
+de:nav:information	Informationen
+de:nav:contact	Kontakt
+de:nav:map	Google Maps
+de:welcome:H1	BEMER-Therapie, Zalacsány
+de:welcome:H2	Eine gute Blutzirkulation ist der Schlüssel
+de:welcome:1	Der Blutkreislauf ist das Versorgungssystem des menschlichen Körpers. Er versorgt die Gewebe und Organe mit Nährstoffen und Sauerstoff.
+de:welcome:2	Außerdem transportiert und reinigt er Abfallstoffe.
+de:welcome:3	75% dieses Prozesses finden in den kleinsten Blutgefäßen, der sogenannten Mikrozirkulation, statt.
+de:welcome:4	BEMER-Geräte verbessern die Vorwärtsbewegung der kleinen und kleinsten Blutgefäße.
+de:welcome:5	Dies führt zu einer bedarfsgerechten Verteilung des Blutes im Netz der kleinsten Blutgefäße.
+de:welcome:6	BEMER ist daher eine wirksame Therapieoption für viele Krankheiten und Gesundheitsprobleme.
+
+de:welcome:7	Um sich anzumelden, rufen Sie an unter <a href="tel:+36306475573" title="Telefonischer Kontakt">+36 30 647 5573</a> oder senden Sie eine E-Mail an <a href="mailto:anik.szucs@gmail.com" title="Kontakt per E-Mail">anik.szucs@gmail.com</a>.
+
+de:welcome:infoLink	Erfahren Sie mehr
+
+de:information:H1	Durchblutungstherapie mit BEMER
+
+de:information:1	Die weltweit patentierte Bemer-Behandlung wurde von dem renommierten Professor der Universität Berlin, Dr. Med. Rainer Klopp, entwickelt. Sie ist die einzige Magnetfeldtherapie-Behandlung, deren gesundheitsfördernde Wirkung klinisch nachgewiesen ist. Es handelt sich um ein medizinisches Gerät, das ohne Komplikationen und Nebenwirkungen auf die empfindlichsten Bereiche zugreift und so die selbstzerstörerischen Teufelskreise, die die Heilung behindern, beseitigt, so dass andere medizinische Behandlungen und der Selbstheilungsprozess effektiver sein können. Sie hat zahlreiche positive Auswirkungen auf den gesamten Körper. Sie kann die Bewegung des Gefäßsystems und die Geschwindigkeit des Blutes beeinflussen, die Blutqualität verbessern und den Zustand des Gewebes verbessern. Eine biophysikalische Anwendung, die die Selbstheilungskräfte des Körpers aktiviert.
+de:information:2	Die Mikrozirkulation ist funktionell der wichtigste Teil des menschlichen Kreislaufs. Sie findet in einem feinen und stark verzweigten Netz winziger Blutgefäße statt (etwa 74% des Kreislaufs), wo sie lebenswichtige Transportfunktionen wahrnimmt: Versorgung der Organe mit Sauerstoff und Nährstoffen, Abtransport von Abfallstoffen und Unterstützung des Immunsystems. Viele Gesundheitsstörungen und Krankheiten werden durch eine eingeschränkte oder gestörte Mikrozirkulation verursacht.
+de:information:3	Bemer Physikalische Gefäßtherapie kann bei 80-90 Prozent der bekannten Erkrankungen eingesetzt werden, wie z.B. Durchblutungsstörungen, Gefäßerkrankungen, Arteriosklerose, Beingeschwüre, Diabetes, Arthritis, Entzündungen, Tinnitus, Zahn- und Zahnfleischerkrankungen, lokale Geschwüre, Nagelpilz, Gallenprobleme, Cholesterinsenkung, Schwindel, Hirnkatastrophen (Schlaganfall), Demenz, Depressionen, Nervenleitstörungen, Ödemreduktion, Schlafstörungen, Multiple Sklerose, Sehstörungen, Gedächtnisstörungen, Gynäkologische Entzündungskrankheiten, Endometriose, PMS-Syndrom, Potenzstörungen, Osteoporose, Migräne, Verbrennungen, schnelle Wundheilung, Allergien, als Zusatzbehandlung zur Rehabilitation, Entgiftung, Hexenschuss, Morbus Bechterew, Lernunterstützung, Leistungssteigerung von Sportlern, Unterstützung der allgemeinen Fitness und des Wohlbefindens von Gesunden, etc.
+de:information:4	Die Bemer-Therapie wird in 5 Behandlungseinheiten durchgeführt:
+de:information:5	Allgemeine Behandlung des ganzen Körpers. Sie verbessert die Voraussetzungen für viele Stoffwechselvorgänge und Selbstregulierungsmechanismen und ist damit die Grundlage für den Einsatz in Prävention und Therapie.
+de:information:6	Intensivbehandlungseinheit für punktuelle und gezielte Behandlungen (z. B. Gelenke).
+de:information:7	Intensivbehandlungsgerät für die gezielte Behandlung bestimmter Körperteile.
+de:information:8	Monochromatisches und photobiologisch hocheffizientes gepulstes Rotlicht mit einer Wellenlänge von 660 nm. Es erzeugt energiereiche Verbindungen in Haut- und Bindegewebszellen. Es hat nachweislich signifikante positive Auswirkungen auf zellulärer Ebene, die Vorteile sind weitreichend und umfassen: verbesserte Hautgesundheit, Umkehrung der Hautalterung, Verringerung von Falten, erhöhte Kollagensynthese, beschleunigte Heilung und Regeneration, Verringerung von Gelenkschmerzen, Verringerung von Entzündungen, höherer Testosteronspiegel, Gewichtsverlust.
+de:information:9	Behandlungseinheit zur lokalen Anwendung in sitzender Position des Patienten. Geeignet für die Behandlung von Beckenentzündungen, Prostataproblemen, Erektionsstörungen, Unfruchtbarkeit, Wechseljahrsbeschwerden.
+de:information:10	Die Behandlungen variieren in Länge und Dauer, werden in Straßenkleidung durchgeführt und sind frei von Schmerzen und Nebenwirkungen. Ich heiße alle willkommen, die sich in der friedlichen Umgebung der schönen Hügel von Örvényeshegy heilen oder einfach nur neue Energie tanken wollen.
+
+de:contact:h2	Kontakt
+
+de:contact:address:h3	Adresse
+
+de:contact:email:h3	E-Mail
+de:contact:email:linkTitle	Kontakt per E-Mail
+
+de:contact:tel:h3	Telefon
+de:contact:telLink	Zum Anrufen klicken
+de:contact:telLinkTitle	Kontakt per Telefon
+
+de:bemer:logoAlt	BEMER-Logo
+de:bemer:about	Die BEMER International AG ist internationaler Marktführer in der Mikrozirkulation. Seit 1998 entwickeln wir patentierte Behandlungsmethoden für die physikalische Gefäßtherapie und forschen weiter auf diesem Gebiet.
+
+de:map:h2	Google Maps
+
+de:footer:topTitle	Zum Anfang zurückkehren
+de:footer:topLink	Top
+
+de:viewThisPage	Diese Seite auf Deutsch ansehen
+de:languageName	Deutsch
+
+// FRENCH
+
+fr:title	Thérapie BEMER Zalacsány, Heviz, Kehidakustány, Zalaegerszeg, Keszthely - Amélioration de la circulation sanguine locale dans le tissu musculaire
+fr:description	
+fr:subtitles	Sous-titres
+fr:nav:welcome	Bienvenue	
+fr:nav:information	Informations
+fr:nav:contact	Contact
+fr:nav:map	Google Maps
+fr:welcome:H1	Thérapie BEMER, Zalacsány
+fr:welcome:H2	Une bonne circulation est la clé de la santé
+fr:welcome:1	Le système circulatoire est le système d'approvisionnement du corps humain. Il fournit des nutriments et de l'oxygène aux tissus et aux organes.
+fr:welcome:2	Il élimine et nettoie également les déchets.
+fr:welcome:3	75% de ce processus se déroule dans les plus petits vaisseaux sanguins, appelés microcirculation.
+fr:welcome:4	Les appareils BEMER améliorent le mouvement vers l'avant des petits et très petits vaisseaux sanguins.
+fr:welcome:5	Cela permet de répartir le sang dans le réseau des plus petits vaisseaux sanguins en fonction des besoins.
+fr:welcome:6	Par conséquent, BEMER est une option thérapeutique efficace pour de nombreuses maladies et problèmes de santé.
+
+fr:welcome:7	Pour nous contacter, veuillez appeler <a href="tel:+36306475573" title="Contact par téléphone">+36 30 647 5573</a> ou envoyer un courriel à <a href="mailto:anik.szucs@gmail.com" title="Contact par courriel">anik.szucs@gmail.com</a>.
+
+fr:welcome:infoLink	Pour en savoir plus
+
+fr:information:H1	Thérapie circulatoire avec BEMER
+
+fr:information:1	Le traitement Bemer, breveté dans le monde entier, a été mis au point par le célèbre professeur de l'université de Berlin, le Dr Med. Rainer Klopp. Il s'agit du seul traitement de magnétothérapie dont il est cliniquement prouvé qu'il améliore la santé. Il s'agit d'un dispositif médical qui accède aux zones les plus vulnérables sans complications ni effets secondaires, éliminant les cercles vicieux qui entravent la guérison, afin que les autres traitements médicaux et le processus d'autoguérison puissent être plus efficaces. Elle a de multiples effets positifs sur le corps dans son ensemble. Elle peut influencer le mouvement du système vasculaire, la vitesse du sang, améliorer la qualité du sang et l'état des tissus. Une application biophysique qui active les propres pouvoirs de guérison du corps.
+fr:information:2	La microcirculation est, d'un point de vue fonctionnel, la partie la plus importante de la circulation humaine. Elle se déroule dans un réseau délicat et très ramifié de minuscules vaisseaux sanguins (environ 74% de la circulation), où elle remplit des fonctions de transport vitales : alimentation des organes en oxygène et en nutriments, transport des déchets et soutien du système immunitaire. De nombreux troubles de la santé et maladies sont causés par une microcirculation restreinte ou perturbée.
+fr:information:3	La thérapie physique vasculaire Bemer peut être utilisée dans 80 à 90% des maladies connues, telles que les troubles circulatoires, les maladies vasculaires, l'athérosclérose, les ulcères de jambe, le diabète, l'arthrite, les inflammations, les acouphènes, les maladies des dents et des gencives, les ulcères locaux, les mycoses des ongles, les problèmes de bile, la réduction du cholestérol, les vertiges, les catastrophes cérébrales (AVC), la démence, la dépression, les troubles neuroconducteurs, la réduction des œdèmes, les troubles du sommeil, sclérose en plaques, déficience visuelle, troubles de la mémoire, maladies gynécologiques inflammatoires, endométriose, syndrome prémenstruel, troubles de la puissance, ostéoporose, migraines, brûlures, cicatrisation rapide des plaies, allergies, traitement d'appoint pour la rééducation, désintoxication, lumbago, maladie de Bechterew, aide à l'apprentissage, amélioration des performances des sportifs, soutien de la forme physique générale et du bien-être des personnes en bonne santé, etc.
+fr:information:4	La thérapie Bemer est dispensée en 5 unités de traitement :
+fr:information:5	Traitement général de l'ensemble du corps. Il améliore les conditions préalables à de nombreux processus métaboliques et mécanismes d'autorégulation, et constitue donc la base de son utilisation en prévention et en thérapie.
+fr:information:6	Unité de soins intensifs pour les traitements ponctuels et ciblés (par exemple, les articulations).
+fr:information:7	Unité de soins intensifs pour le traitement ciblé de certaines parties du corps.
+fr:information:8	Lumière rouge pulsée monochromatique et photobiologiquement très efficace d'une longueur d'onde de 660 nm. Elle crée des liaisons riches en énergie dans les cellules de la peau et du tissu conjonctif. Il a été prouvé que la lumière rouge pulsée a des effets positifs significatifs au niveau cellulaire. Ses avantages sont nombreux et comprennent : l'amélioration de la santé de la peau, l'inversion du vieillissement de la peau, la réduction des rides, l'augmentation de la synthèse du collagène, l'accélération de la cicatrisation et de la régénération, la réduction des douleurs articulaires, la réduction des inflammations, l'augmentation du taux de testostérone, la perte de poids.
+fr:information:9	Unité de traitement pour application topique en position assise du patient. Convient pour le traitement des inflammations pelviennes, des problèmes de prostate, des dysfonctionnements érectiles, de l'infertilité, des problèmes de ménopause.
+fr:information:10	Les traitements varient en longueur et en durée, sont effectués en tenue de ville, sans douleur ni effets secondaires. J'accueille ceux qui veulent se rétablir ou simplement se ressourcer dans le cadre paisible des belles collines d'Örvényeshegy.
+
+fr:contact:h2	Contact
+
+fr:contact:address:h3	Adresse
+
+fr:contact:email:h3	Courriel
+fr:contact:email:linkTitle	Contact par email
+
+fr:contact:tel:h3	Téléphone
+fr:contact:telLink	Cliquez pour appeler
+fr:contact:telLinkTitle	Contact par téléphone
+
+fr:bemer:logoAlt	Logo BEMER
+fr:bemer:about	BEMER International AG est le leader international du marché de la microcirculation. Depuis 1998, nous développons des méthodes de traitement brevetées pour la thérapie physique vasculaire et poursuivons nos recherches dans ce domaine.
+
+fr:map:h2	Google Maps
+
+fr:footer:topTitle	Retour au début de la page
+fr:footer:topLink	Haut de page / Top
+
+fr:viewThisPage	Voir cette page en français
+fr:languageName	Français
+
+// DUTCH
+
+nl:title	BEMER-therapie Zalacsány, Heviz, Kehidakustány, Zalaegerszeg, Keszthely - Verbetering van de plaatselijke doorbloeding van het spierweefsel
+nl:description	
+nl:subtitles	Ondertiteling
+nl:nav:welcome	Welkom	
+nl:nav:information	Informatie
+nl:nav:contact	Contact
+nl:nav:map	Google Maps
+nl:welcome:H1	BEMER Therapie, Zalacsány
+nl:welcome:H2	Een goede bloedsomloop is de sleutel tot gezondheid
+nl:welcome:1	De bloedsomloop is het toevoersysteem van het menselijk lichaam. Het voorziet weefsels en organen van voedingsstoffen en zuurstof.
+nl:welcome:2	Het verwijdert en reinigt ook afvalstoffen.
+nl:welcome:3	75% van dit proces vindt plaats in de kleinste bloedvaten, de zogenaamde microcirculatie.
+nl:welcome:4	BEMER-apparaten verbeteren de voorwaartse beweging van kleine en zeer kleine bloedvaten.
+nl:welcome:5	Dit leidt tot de distributie van bloed in het netwerk van de kleinste bloedvaten zoals dat nodig is.
+nl:welcome:6	Daarom is BEMER een effectieve therapeutische optie voor vele ziekten en gezondheidsproblemen.
+
+nl:welcome:7	Om contact met ons op te nemen, belt u <a href="tel:+36306475573" title="Contact per telefoon">+36 30 647 5573</a> of stuurt u een e-mail naar <a href="mailto:anik.szucs@gmail.com" title="Contact per e-mail">anik.szucs@gmail.com</a>.
+
+nl:welcome:infoLink	Meer informatie
+
+nl:information:H1	Circulatietherapie met BEMER
+
+nl:information:1	De wereldwijd gepatenteerde Bemer-behandeling werd ontwikkeld door de gerenommeerde professor aan de universiteit van Berlijn, Dr. Med. Rainer Klopp. Het is de enige magnetotherapiebehandeling waarvan klinisch bewezen is dat ze de gezondheid verbetert. Het is een medisch apparaat dat de meest kwetsbare gebieden bereikt zonder complicaties of bijwerkingen, waardoor de zelfvernietigende vicieuze cirkels die genezing in de weg staan worden geëlimineerd, zodat andere medische behandelingen en het zelfgenezingsproces effectiever kunnen zijn. Het heeft meerdere positieve effecten op het lichaam als geheel. Het kan de beweging van het vaatstelsel en de snelheid van het bloed beïnvloeden, de kwaliteit van het bloed en de conditie van de weefsels verbeteren. Een biofysische toepassing die de lichaamseigen genezende krachten activeert.
+nl:information:2	De microcirculatie is functioneel het belangrijkste deel van de menselijke bloedsomloop, die plaatsvindt in een delicaat en sterk vertakt netwerk van kleine bloedvaten (ongeveer 74% van de bloedsomloop), waar zij vitale transportfuncties vervult: organen van zuurstof en voedingsstoffen voorzien, afvalstoffen vervoeren en het immuunsysteem ondersteunen. Veel gezondheidsproblemen en ziekten worden veroorzaakt door een beperkte of verstoorde microcirculatie.
+nl:information:3	Bemer Fysische Vasculaire Therapie kan worden ingezet bij 80-90 procent van de bekende ziekten, zoals Circulatiestoornissen, vaatziekten, atherosclerose, beenzweren, diabetes, artritis, ontstekingen, tinnitus, tand- en tandvleesaandoeningen, lokale zweren, schimmelnagels, galproblemen, cholesterolverlaging, duizeligheid, hersenrampen (Stroke), dementie, depressie, neurogeleidingsstoornissen, oedeemvermindering, slaapstoornissen, multiple sclerose, slechtziendheid, geheugenstoornissen, gynaecologische ontstekingsziekten, endometriose, PMS-syndroom, potentiestoornissen, osteoporose, migraine, brandwonden, snelle genezing van wonden, allergieën, als aanvullende behandeling bij revalidatie, ontgifting, spit, ziekte van Bechterew, leerondersteuning, verbetering van de prestaties van sporters, ondersteuning van de algemene fitheid en het welzijn van gezonde mensen, enz.
+nl:information:4	Bemer therapie wordt gegeven in 5 behandelingseenheden:
+nl:information:5	Algemene behandeling van het hele lichaam. Het verbetert de randvoorwaarden voor veel stofwisselingsprocessen en zelfregulerende mechanismen, en is daarom de basis voor het gebruik bij preventie en therapie.
+nl:information:6	Intensieve behandelingseenheid voor punctuele en gerichte behandelingen (bijv. gewrichten).
+nl:information:7	voor gerichte behandeling van specifieke lichaamsdelen.
+nl:information:8	Monochromatisch en fotobiologisch zeer efficiënt gepulseerd rood licht met een golflengte van 660 nm. Het creëert energierijke bindingen in huid- en bindweefselcellen. Het is bewezen dat het significante positieve effecten heeft op cellulair niveau, de voordelen zijn breed en omvatten: verbeterde gezondheid van de huid, omkering van huidveroudering, vermindering van rimpels, verhoogde collageensynthese, versnelde genezing en regeneratie, vermindering van gewrichtspijn, vermindering van ontstekingen, hogere testosteronspiegels, gewichtsverlies.
+nl:information:9	Behandelunit voor topische toepassing in de zittende positie van de patiënt. Geschikt voor de behandeling van bekkenontstekingen, prostaatproblemen, erectiestoornissen, onvruchtbaarheid, overgangsklachten.
+nl:information:10	Behandelingen variëren in lengte en duur, worden uitgevoerd in gewone kleding, vrij van pijn en bijwerkingen. Ik verwelkom degenen die willen herstellen of gewoon hun batterijen willen opladen in de rustige omgeving van de prachtige heuvels van Örvényeshegy.
+
+nl:contact:h2	Neem contact op met
+
+nl:contact:address:h3	Adres
+
+nl:contact:email:h3	E-mail
+nl:contact:email:linkTitle	Contact per e-mail
+
+nl:contact:tel:h3	Telefoon
+nl:contact:telLink	Klik om te bellen
+nl:contact:telLinkTitle	Contact per telefoon
+
+nl:bemer:logoAlt	BEMER logo
+nl:bemer:about	BEMER International AG is de internationale marktleider op het gebied van microcirculatie. Wij ontwikkelen sinds 1998 gepatenteerde behandelmethoden voor fysische vasculaire therapie en doen verder onderzoek op dit gebied.
+
+nl:map:h2	Google Maps
+
+nl:footer:topTitle	Ga terug naar het begin van de pagina
+nl:footer:topLink	Top
+
+nl:viewThisPage	Bekijk deze pagina in het Nederlands
+nl:languageName	Nederlands
+
+// ENGLISH
+
+en:title	BEMER therapy Zalacsány, Heviz, Kehidakustány, Zalaegerszeg, Keszthely - Improving local blood flow circulation within the muscle tissue
+en:description	
+en:subtitles	Subtitles
+en:nav:welcome	Welcome	
+en:nav:information	Information
+en:nav:contact	Contact
+en:nav:map	Google Maps
+en:welcome:H1	BEMER Therapy, Zalacsány
+en:welcome:H2	Good circulation is the key to health
+en:welcome:1	The circulatory system is the human body's supply system. It supplies nutrients and oxygen to tissues and organs.
+en:welcome:2	It also removes and cleanses waste products.
+en:welcome:3	75% of this process takes place in the smallest blood vessels, called the microcirculation.
+en:welcome:4	BEMER devices improve the forward movement of small and very small blood vessels.
+en:welcome:5	This leads to the distribution of blood in the network of the smallest blood vessels as needed.
+en:welcome:6	Therefore, BEMER is an effective therapeutic option for many diseases and health problems.
+
+en:welcome:7	To contact us please call <a href="tel:+36306475573" title="Contact by phone">+36 30 647 5573</a> or send an email to <a href="mailto:anik.szucs@gmail.com" title="Contact by email">anik.szucs@gmail.com</a>.
+
+en:welcome:infoLink	Find out more
+
+en:information:H1	Circulatory therapy with BEMER
+
+en:information:1	The world-patented Bemer treatment was developed by renowned professor at the University of Berlin, Dr. Med. Rainer Klopp. It is the only magnetotherapy treatment clinically proven to improve health. It is a medical device that accesses the most vulnerable areas without complications or side effects, eliminating the self-defeating vicious circles that hinder healing, so that other medical treatments and the self-healing process can be more effective. It has multiple positive effects on the body as a whole. It can influence the movement of the vascular system, the speed of the blood, improve blood quality and the condition of tissues. A biophysical application that activates the body's own healing powers.
+en:information:2	The microcirculation is functionally the most important part of the human circulation, taking place in a delicate and highly branched network of tiny blood vessels (about 74% of the circulation), where it performs vital transport functions: supplying organs with oxygen and nutrients, transporting waste products and supporting the immune system. Many health disorders and diseases are caused by restricted or disturbed microcirculation.
+en:information:3	Bemer Physical Vascular Therapy can be used in 80-90 percent of known diseases, such as Circulatory disorders, vascular diseases, atherosclerosis, leg ulcers, diabetes, arthritis, inflammation, tinnitus, tooth and gum diseases, local ulcers, nail fungus, bile problems, cholesterol reduction, dizziness, brain catastrophes (Stroke), dementia, depression, neuroconductive disorders, oedema reduction, sleep disorders, multiple sclerosis, visual impairment, memory disorders, Gynaecological inflammatory diseases, endometriosis, PMS syndrome, potency disorders, osteoporosis, migraine headaches, burns, rapid healing of wounds, allergies, as an adjunct treatment for rehabilitation, detoxification, lumbago, Bechterew's disease, learning support, improving the performance of athletes, supporting the general fitness and well-being of healthy people, etc.
+en:information:4	Bemer therapy is delivered in 5 treatment units:
+en:information:5	General treatment of the whole body. It improves the preconditions for many metabolic processes and self-regulatory mechanisms, and is therefore the basis for its use in prevention and therapy.
+en:information:6	Intensive treatment unit for spot and targeted treatments (e.g. joints).
+en:information:7	Intensive care unit for targeted treatment of specific parts of the body.
+en:information:8	Monochromatic and photobiologically highly efficient pulsed red light with a wavelength of 660 nm. It creates energy-rich bonds in skin and connective tissue cells. Proven to have significant positive effects at the cellular level, the benefits are wide ranging and include: improved skin health, reversal of skin ageing, reduction of wrinkles, increased collagen synthesis, accelerated healing and regeneration, reduction of joint pain, reduction of inflammation, higher testosterone levels, weight loss.
+en:information:9	Treatment unit for topical application in the sitting position of the patient. Suitable for the treatment of pelvic inflammation, prostate problems, erectile dysfunction, infertility, menopausal problems.
+en:information:10	Treatments vary in length and duration, are performed in street clothes, free of pain and side effects. I welcome those who want to recover or just recharge their batteries in the peaceful surroundings of the beautiful hills of Örvényeshegy.
+
+en:contact:h2	Contact
+
+en:contact:address:h3	Address
+
+en:contact:email:h3	Email
+en:contact:email:linkTitle	Contact by email
+
+en:contact:tel:h3	Phone
+en:contact:telLink	Click to call
+en:contact:telLinkTitle	Contact by phone
+
+en:bemer:logoAlt	BEMER logo
+en:bemer:about	BEMER International AG is the international market leader in microcirculation. We have been developing patented treatment methods for physical vascular therapy since 1998 and are conducting further research in this field.
+
+en:map:h2	Google Maps
+
+en:footer:topTitle	Go back to top of the page
+en:footer:topLink	Top
+
+en:viewThisPage	View this page in English
+en:languageName	English
+
+
