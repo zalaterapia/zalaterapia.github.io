@@ -22,7 +22,7 @@ $(function ()
         }
     }
 
-    console.log(captions);
+    // console.log(captions);
 
     $( "#subtitles" ).click(function() 
     {
