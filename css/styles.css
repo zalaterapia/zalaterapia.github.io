@@ -1,25 +1,45 @@
 :root {
     --navWidth: 18vw;
     --leftOffset: 18vw;
-
     --paddingLeft: 100px;
-
     --contentWidth: 60vw;
-
     --maxWidth: 1310px;
+    --sectionSpacing: 100px;
 }
 
 body {
     background: #3a0000;
     color: white;
     font-family: 'Inter', sans-serif;
-    font-weight: 100;
+    font-weight: 200;
 }
 
 a {
     color: white;
     text-decoration: none;
 }
+
+.strong {
+    font-weight: 600;
+}
+
+.button {
+    display: block;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 2px rgba(255, 255, 255) solid;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 125px;
+}
+
+main > section, footer > div {
+    width: var(--contentWidth);
+    max-width: var(--maxWidth);
+}
+
+/* navigation */
 
 nav {
     padding: 50px;
@@ -54,6 +74,8 @@ nav ul:first-child li:last-child {
     border: none;
 }
 
+/* main page */
+
 main {
     background: rgb(186,125,62);
     background: linear-gradient(180deg, rgba(186,125,62,1) 0%, rgba(186,164,62,1) 100%);
@@ -63,19 +85,11 @@ main {
     padding-left: var(--paddingLeft);
 
     font-size: 1.2rem;
-    line-height: 1.75;
+    line-height: 2;
 }
 
-main > section, footer > div {
-    width: var(--contentWidth);
-    max-width: var(--maxWidth);
-}
-
-main h1 {
-    line-height: 1;
-}
-
-main h1, main h2, main h3 {
+main h1, main h2 {
+    line-height: 1.2;
     margin-bottom: 20px;
 }
 
@@ -95,15 +109,15 @@ main p {
     margin-bottom: 20px;
 }
 
-main p.strong {
-    font-weight: 300;
+main p:last-child {
+    margin-bottom: 0;
 }
 
 section {
-    margin-bottom: 100px;
+    margin-bottom: var(--sectionSpacing);
 }
 
-section:last-child {
+section:first-child, section:last-child {
     margin-bottom: 0;
 }
 
@@ -111,31 +125,32 @@ section:last-child {
 
 #welcome {
     min-height: 100vh;
+    padding-top: var(--paddingLeft);
 }
 
-#welcome video  {
-    margin-top: var(--paddingLeft);
-    width: 100%;
+#video  {
+    width: var(--contentWidth);
+    position: relative;
+    margin-bottom: 40px;
+}
+
+video  {
     height: 300px;
     object-fit: cover;
-    margin-bottom: 80px;
 }
 
-#welcome p:last-child {
-    margin-top: 50px;
-    margin-bottom: 50px;
+#subtitles {
+    position: absolute;
+    right: 10px;
+    top: 10px;
 }
 
-#welcome p:last-child a {
-    background-color: rgba(0, 0, 0, 0.2);
-    border: 1px rgba(255, 255, 2553) solid;
-    padding: 15px;
-    padding-left: 40px;
-    padding-right: 40px;
-    border-radius: 125px;
+#welcome > p:last-child {
+    padding-bottom: var(--sectionSpacing);
+    display: inline-block;
 }
 
-#welcome p:last-child img {
+#welcome > p:last-child img {
     width: 20px;
     vertical-align: -4px;
 }
@@ -152,10 +167,18 @@ section:last-child {
 
 /* contact */
 
+#contact ul li {
+    margin-bottom: 30px;
+}
+
+#contact p {
+    margin: 0;
+}
+
 /* bemer */
 
 #bemer {
-    background-color: rgba(255, 255, 255, 0.211);
+    background-color: rgba(255, 255, 255, 0.2);
     padding: 20px;
 }
 

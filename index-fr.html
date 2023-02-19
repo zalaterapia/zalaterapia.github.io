@@ -1,9 +1,18 @@
 <!DOCTYPE html>
 <html lang="fr">
-	
+
 	<head>
 		<title>Thérapie BEMER Zalacsány, Heviz, Kehidakustány, Zalaegerszeg, Keszthely - Amélioration de la circulation sanguine locale dans le tissu musculaire</title>
 		
+        <meta name="description" content="">
+        <meta name="author" content="Charlie">
+
+        <meta property="og:title" content="Thérapie BEMER Zalacsány, Heviz, Kehidakustány, Zalaegerszeg, Keszthely - Amélioration de la circulation sanguine locale dans le tissu musculaire">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://zalaterapia.github.io">
+        <meta property="og:description" content="">
+        <meta property="og:image" content="image.png">
+
 		<link rel="alternate" hreflang="hu" href="index.html" />
 		<link rel="alternate" hreflang="en" href="index-en.html" />
 		<link rel="alternate" hreflang="de" href="index-de.html" />
@@ -18,13 +27,18 @@
 
         <link rel="preconnect" href="https://fonts.googleapis.com"> 
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-
+        <link rel="preconnect" href="https://www.google.hu"> 
+        <link rel="preconnect" href="https://code.jquery.com"> 
         <link rel="preconnect" href="https://zalaterapia.github.io"> 
 
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;900&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;600&display=swap" rel="stylesheet">
 
-		<link href="css/reset.css?v=1581681986" rel="stylesheet">
-		<link href="css/styles.css?v=1581681986" rel="stylesheet">
+		<link href="css/reset.css?v=714268029" rel="stylesheet">
+		<link href="css/styles.css?v=714268029" rel="stylesheet">
+
+        <script src="https://code.jquery.com/jquery-3.6.3.slim.min.js" integrity="sha256-ZwqZIVdD3iXNyGHbSYdsmWP//UBokj2FHAxKuSBKDSo=" crossorigin="anonymous"></script>
+
+        <script src="js/script.js"></script>
 
 	</head>
 	
@@ -51,14 +65,20 @@
 
             <section id="welcome">
 
-                <video autoplay loop muted playsinline>
-                    <source src="images/loop.mp4" type="video/mp4">
-                    <track label="Magyar" kind="subtitles" srclang="hu" src="captions/hu.vtt?v=1581681986"  />
-                    <track label="English" kind="subtitles" srclang="en" src="captions/en.vtt?v=1581681986"  />
-                    <track label="Nederlands" kind="subtitles" srclang="nl" src="captions/nl.vtt?v=1581681986"  />
-                    <track label="Deutsch" kind="subtitles" srclang="de" src="captions/de.vtt?v=1581681986"  />
-                    <track label="Français" kind="subtitles" srclang="fr" src="captions/fr.vtt?v=1581681986" default />
-                </video>
+                <section id="video">
+
+                    <video autoplay loop muted id="video">
+                        <source src="images/loop.mp4" type="video/mp4">
+                        <track label="Magyar" kind="subtitles" srclang="hu" src="captions/hu.vtt?v=714268029"  />
+                        <track label="English" kind="subtitles" srclang="en" src="captions/en.vtt?v=714268029"  />
+                        <track label="Nederlands" kind="subtitles" srclang="nl" src="captions/nl.vtt?v=714268029"  />
+                        <track label="Deutsch" kind="subtitles" srclang="de" src="captions/de.vtt?v=714268029"  />
+                        <track label="Français" kind="subtitles" srclang="fr" src="captions/fr.vtt?v=714268029" default />
+                    </video>
+    
+                    <div id="subtitles" class="button">Sous-titres</div>
+    
+                </section>
 
                 <h1>Thérapie BEMER, Zalacsány</h1>
                 <h2>Une bonne circulation est la clé de la santé</h2>
@@ -71,7 +91,7 @@
                 <p>Par conséquent, BEMER est une option thérapeutique efficace pour de nombreuses maladies et problèmes de santé.</p>
                 <p>Pour nous contacter, veuillez appeler <a href="tel:+36306475573" title="Contact par téléphone">+36 30 647 5573</a> ou envoyer un courriel à <a href="mailto:anik.szucs@gmail.com" title="Contact par courriel">anik.szucs@gmail.com</a>.</p>
 
-                <p><a href="#information" title="Pour en savoir plus">Pour en savoir plus <img src="images/right-arrow.svg" alt="" /></a></p>
+                <p><a href="#information" title="Pour en savoir plus" class="button">Pour en savoir plus <img src="images/right-arrow.svg" alt="" /></a></p>
 
             </section>
 
@@ -163,6 +183,5 @@
             </div>
 
         </footer>
-
 	</body>
 </html>
