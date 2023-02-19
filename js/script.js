@@ -11,11 +11,9 @@ $(function ()
 
     for (let i = 0; i < video.textTracks.length; i++) 
     {
-        // video.textTracks[i].mode = "hidden";
-
         // showing or disabled
 
-        // console.log(video.textTracks[i].mode);
+        console.log(video.textTracks[i].mode);
 
         if(video.textTracks[i].mode=="showing")
         {
@@ -24,7 +22,7 @@ $(function ()
         }
     }
 
-    // console.log(captions);
+    console.log(captions);
 
     $( "#subtitles" ).click(function() 
     {
@@ -36,6 +34,10 @@ $(function ()
         {
             video.textTracks[captions].mode = "showing";
         }
+
+        console.log(showing);
+
+        console.log(video.textTracks[captions].mode);
 
         showing = !showing;
     });
