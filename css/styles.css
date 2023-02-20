@@ -39,6 +39,13 @@ main > section, footer > div {
     max-width: var(--maxWidth);
 }
 
+@media screen and (max-width: 1280px) {
+
+    main > section, footer > div {
+        width: 100%;
+    }
+}
+
 /* navigation */
 
 nav {
@@ -87,11 +94,29 @@ nav ul:first-child li:last-child {
         width: 100%;
     }
 
+    nav ul:first-child {
+        margin: 0;
+    }
+
     nav ul:first-child li {
         display: inline-block;
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+
+    nav ul:first-child li:not(:last-child) {
+        margin-right: 10px;
     }
 
     nav ul:last-child {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    nav {
         display: none;
     }
 }
@@ -147,9 +172,12 @@ section:first-child, section:last-child {
 
     main {
         margin: 0;
-        padding: 0;
+        padding: 2rem;
     }
 
+    section {
+        margin-bottom: 40px;
+    }
 }
 
 /* welcome */
@@ -190,6 +218,32 @@ video  {
     vertical-align: -4px;
 }
 
+@media screen and (max-width: 1280px) {
+
+    #welcome {
+        padding-top: 60px;
+    }
+
+    #video, video  {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    #welcome {
+        padding: 0;
+    }
+
+    #video, video  {
+        height: 200px;
+    }
+
+    #subtitles {
+        display: none;
+    }
+}
+
 /* information */
 
 #information ol {
@@ -223,46 +277,91 @@ video  {
     padding-bottom: var(--paddingLeft);
 }
 
+@media screen and (max-width: 1280px) {
+
+    #map {
+        padding-bottom: 0;
+    }
+}
+
 /* footer */
 
 footer {
-
     background-color: #329e61;
-
     margin-left: var(--leftOffset);
-
     padding: 50px;
     padding-left: var(--paddingLeft);
 }
 
-footer > div, footer > div ul {
+footer > div, footer ul {
     display: inline-flex;
 }
 
 footer > div > div:first-child {
-    margin-right: 5em;
+    margin-right: 5em !important;
 }
 
-footer > div li {
+footer span {
+    white-space: nowrap;
+}
+
+footer li:not(:last-child) {
     display: inline-block;
     margin-right: 3em;
 }
 
-footer > div li:last-child {
-    margin-right: 0;
-}
-
-footer > div div:last-child {
+footer div div:last-child {
     flex-grow: 2;
     text-align: right;
+    white-space: nowrap;
 }
 
 @media screen and (max-width: 1280px) {
 
     footer {
         margin: 0;
-        padding: 0;
+        padding: 30px;
     }
 
+    footer ul {
+        margin-right: 1em;
+    }
+
+    footer div div:first-child {
+        margin-right: 2em !important;
+    }
+
+    footer li:not(:last-child) {
+        margin-right: 1em;
+    }
 }
+
+@media screen and (max-width: 500px) {
+
+    footer {
+        margin: 0;
+        padding: 30px;
+    }
+
+    footer ul {
+        width: 100%;
+        display: block;
+    }
+
+    footer li {
+        display: block !important;
+        margin-right: 0 !important;
+        margin-bottom: 10px !important;
+    }
+}
+
+/* 320 — 480 for mobile devices */
+/* 481 — 768 for iPads & tablets */
+/* 769 — 1024 for small screens, laptop */
+/* 1025 — 1200 for large screens, desktop */
+/* 1201 and above for extra large screens */
+
+/* 500 */
+/* 1280 */
+
 

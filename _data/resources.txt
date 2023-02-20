@@ -50,7 +50,7 @@ hu:bemer:about	A BEMER International AG nemzetközi piacvezető a mikrokeringés
 hu:map:h2	Google Maps
 
 hu:footer:topTitle	Menj vissza az oldal tetejére
-hu:footer:topLink	Felső / Top
+hu:footer:topLink	Felső
 
 hu:viewThisPage	Tekintse meg ezt az oldalt magyarul
 hu:languageName	Magyar
@@ -164,7 +164,7 @@ fr:bemer:about	BEMER International AG est le leader international du marché de 
 fr:map:h2	Google Maps
 
 fr:footer:topTitle	Retour au début de la page
-fr:footer:topLink	Haut de page / Top
+fr:footer:topLink	Haut
 
 fr:viewThisPage	Voir cette page en français
 fr:languageName	Français
