@@ -114,7 +114,7 @@ nav ul:first-child li:last-child {
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 560px) {
 
     nav {
         display: none;
@@ -144,12 +144,34 @@ main h1 {
     font-size: 3em;
 }
 
+@media screen and (max-width: 560px) {
+
+    main h1 {
+        font-size: 2em;
+    }
+}
+
 main h2 {
     font-size: 2em;
 }
 
+@media screen and (max-width: 560px) {
+
+    main h2 {
+        font-size: 1.5em;
+    }
+}
+
 main h3 {
     font-size: 1.5em;
+}
+
+@media screen and (max-width: 560px) {
+
+    main h3 {
+        font-size: 1.1em;
+        font-weight: 600;
+    }
 }
 
 main p {
@@ -229,7 +251,7 @@ video  {
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 560px) {
 
     #welcome {
         padding: 0;
@@ -336,7 +358,7 @@ footer div div:last-child {
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 560px) {
 
     footer {
         margin: 0;
@@ -352,6 +374,10 @@ footer div div:last-child {
         display: block !important;
         margin-right: 0 !important;
         margin-bottom: 10px !important;
+    }
+
+    footer .hideWhenSmallest {
+        display: none;
     }
 }
 
