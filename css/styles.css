@@ -264,6 +264,10 @@ video  {
     #subtitles {
         display: none;
     }
+
+    #welcome > p:last-child {
+        display: none;
+    }
 }
 
 /* information */
